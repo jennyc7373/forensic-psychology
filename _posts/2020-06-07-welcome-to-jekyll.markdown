@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2020-06-07 23:50:22 +0000
-categories: jekyll update
+categories: 
 ---
 Forensic science is finding clues for the death of a victim in a crime scene. The clues that are gathered will be analyzed and develop into evidence for who to suspect to be the culprit. Thus, the progress of the police finding the culprit will be quicker. 
 
