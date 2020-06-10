@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Introduction"
 date:   2020-06-07 23:50:22 +0000
 categories: Welcome to Jekyll
