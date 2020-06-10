@@ -37,7 +37,7 @@ Thalamus
 
 The 2 parts of the brain above corresponds most with personality. 
 
-
+---
 #### Development of a Personality
 Why are criminals a criminal? What is it that made them turn into a criminal?
 
