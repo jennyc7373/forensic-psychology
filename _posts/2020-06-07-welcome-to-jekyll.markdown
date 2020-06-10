@@ -4,7 +4,6 @@ title:  "Introduction"
 date:   2020-06-07 23:50:22 +0000
 categories: 
 ---
-<!--![mask](https://img.dxcdn.com/productimages/sku_561555_1.jpg) -->
 <p align="center">
 <a href="url"><img src="https://img.dxcdn.com/productimages/sku_561555_1.jpg" height="500" width="500" ></a>
 </p>
