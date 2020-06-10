@@ -8,7 +8,13 @@ categories:
 <p align="center">
 <a href="url"><img src="https://img.dxcdn.com/productimages/sku_561555_1.jpg" height="500" width="500" ></a>
 </p>	
+
 Forensic science is finding clues for the death of a victim in a crime scene. The clues that are gathered will be analyzed and develop into evidence for who to suspect to be the culprit. Thus, the progress of the police finding the culprit will be quicker. 
 
 In forensic science there are many different fields such as psychology, toxicology, pathology and etc. All the different types of forensic field listed are used to find the cause of the death of a victim. 
+
+The forensic psychology field is for the purpose of help in getting justice in court.  Forensic psychologists will be participating in trials of court and interviewing with criminals. This can increase the chance to helping a victim gaining justice. 
+
+To put this topic in simple terms, it is just using psychology in the criminal justice system. A large part of this topic will be about psychology.
+
 
