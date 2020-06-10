@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Intro to Forensic Psychology
-date:   2020-06-07 23:50:22 +0000	date:   
+date:   2020-06-07 23:50:22 +0000	   
 categories: 
 ---
 <!doctype html>
