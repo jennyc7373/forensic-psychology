@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: 
 title:  "Introduction"
 date:   2020-06-07 23:50:22 +0000
 categories: 
@@ -13,4 +13,4 @@ Forensic science is finding clues for the death of a victim in a crime scene. Th
 
 In forensic science there are many different fields such as psychology, toxicology, pathology and etc. All the different types of forensic field listed are used to find the cause of the death of a victim. 
 
-...
+
