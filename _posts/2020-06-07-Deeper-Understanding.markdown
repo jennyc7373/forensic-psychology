@@ -22,7 +22,7 @@ We all know the brain is what controls the functioning of our bodies. The brain 
 <a href="url"><img src="https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/blogs/55975/2011/08/71474-61876.jpg?itok=za_1ieOx" ></a>
 </p>
 
-###### Frontal Lobe: controls our cognitive skills.
+ Frontal Lobe: controls our cognitive skills.
 - emotional expression
 - problem solving
 - memory
@@ -31,7 +31,7 @@ We all know the brain is what controls the functioning of our bodies. The brain 
 - sexual behaviors
 
 
-###### Thalamus
+Thalamus
 - sense pain (touch sense)
 - alertness/consciousness
 
