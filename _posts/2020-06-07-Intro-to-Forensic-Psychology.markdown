@@ -5,29 +5,29 @@ date:   2020-06-07 23:50:22 +0000	date:
 categories: 
 ---
 <!doctype html>
-<html lang="en">
-  <head>
-     Required meta tags 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!--<html lang="en">-->
+<!--  <head>-->
+<!--     Required meta tags -->
+<!--    <meta charset="utf-8">-->
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">-->
 
-     Bootstrap CSS 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<!--     Bootstrap CSS -->
+<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
 
-     Custom CSS 
-    <link rel="stylesheet" href="style.css">
+<!--     Custom CSS -->
+<!--    <link rel="stylesheet" href="style.css">-->
 
-    <title>Forensic Psychology</title>
+<!--    <title>Forensic Psychology</title>-->
 
-  </head>
+<!--  </head>-->
   
-  <body>
-    <div>
+  <!--<body>-->
+  <!--  <div>-->
       <img class= 'img'src= "img/mask1.jpg" width=500  height= 500>
 
       <p> Forensic science is finding clues for the death of a victim in a crime scene. The clues that are gathered will be analyzed and develop into evidence for who to suspect to be the culprit. Thus, the progress of the police finding the culprit will be quicker. </p>
       <p> In forensic science there are many different fields such as psychology, toxicology, pathology and etc. All the different types of forensic field listed are used to find the cause of the death of a victim.</p>
-    </div>
+<!--    </div>-->
 
-  </body>
-</html>
+<!--  </body>-->
+<!--</html>-->
