@@ -38,7 +38,7 @@ Thalamus
 The 2 parts of the brain above corresponds most with personality. 
 
 
-###### Development of a Personality
+##### Development of a Personality
 Why are criminals a criminal? What is it that made them turn into a criminal?
 
 The point of forensic psychology was to help determining a persons personality and explain the victim's or criminal's actions or emotions in court cases. 
